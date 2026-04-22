@@ -2,24 +2,24 @@
 
 ## Use-Case Diagram
 
-![Use-Case](https://github.com/fpmi-tp2025/tpmp-gr9a-lab9-dead_end/blob/application_layout/Use-Case_Diagram.png)
+![Use-Case](https://github.com/fpmi-pmvs2026/pmvs12a-project-dead-end/blob/diagrams/Screenshots/1.png)
 
 ## Class Diagram
 
-![Class](https://github.com/fpmi-tp2025/tpmp-gr9a-lab9-dead_end/blob/application_layout/Class_Diagram.png)
+![Class](https://github.com/fpmi-pmvs2026/pmvs12a-project-dead-end/blob/diagrams/Screenshots/4.png)
 
 ## Deployment Diagram
 
-![Deployment](https://github.com/fpmi-tp2025/tpmp-gr9a-lab9-dead_end/blob/application_layout/Deployment_Diagram.png)
+![Deployment](https://github.com/fpmi-pmvs2026/pmvs12a-project-dead-end/blob/diagrams/Screenshots/5.png)
 
 ## Sequence Diagram
 
-![Sequence](https://github.com/fpmi-tp2025/tpmp-gr9a-lab9-dead_end/blob/application_layout/Sequence_Diagram.png)
+![Sequence](https://github.com/fpmi-pmvs2026/pmvs12a-project-dead-end/blob/diagrams/Screenshots/3.png)
 
 ## Component Diagram
 
-![Component](https://github.com/fpmi-tp2025/tpmp-gr9a-lab9-dead_end/blob/application_layout/Component_Diagram.png)
+![Component](https://github.com/fpmi-pmvs2026/pmvs12a-project-dead-end/blob/diagrams/Screenshots/6.png)
 
 ## DataBase Diagram
 
-![DataBase](https://github.com/fpmi-tp2025/tpmp-gr9a-lab9-dead_end/blob/application_layout/DataBase.png)
+![DataBase](https://github.com/fpmi-pmvs2026/pmvs12a-project-dead-end/blob/diagrams/Screenshots/2.png)
